@@ -6,5 +6,7 @@ Controls:
   - 's' to start/pause
   - 'r' to reset
   - 'c' to clear board
+  - 'UP ARROW' to speed up
+  - 'DOWN ARROW' to slow down
 
 Compiled with provided Makefile.
