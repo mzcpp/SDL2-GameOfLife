@@ -3,7 +3,8 @@ Game of Life written using SDL2 library.
 
 Controls: 
   - LEFT MOUSE CLICK to draw patterns
-  - 's' to start/pause 
-  - 'r' to reset 
+  - 's' to start/pause
+  - 'r' to reset
+  - 'c' to clear board
 
 Compiled with provided Makefile.
